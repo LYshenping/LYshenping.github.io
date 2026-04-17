@@ -1,6 +1,6 @@
 title: LYshenping's Notes
 description: blog & notes
-theme: minima
+theme: hacker
 markdown: kramdown
 kramdown:
   math_engine: mathjax
