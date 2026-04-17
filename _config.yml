@@ -1,0 +1,7 @@
+title: LYshenping's Notes
+description: blog & notes
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+mathjax: true
